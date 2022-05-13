@@ -1,0 +1,11 @@
+Tadas,Tadasevičius,41816497300,Vyras,30,08:30,Kosulys
+Vladas,Vladasevičius,69187506537,Vyras,45,10:15,Sloga
+Kristina,Kristivičiutė,40803076089,Moteris,25,14:00,Nugaros skausmas
+Saulius,Saulėnas,45067540048,Vyras,21,19:00,Kosulys
+Justė,Justėlytė,90045000541,Moteris,25,09:00,Gerklės skausmas
+Gintaras,Gintarevičius,40040040412,Vyras,61,12:45,Akies skausmas
+Saulė,Saulytė,14277040727,Moteris,25,16:30,Sąnarių skausmas
+Julija,Julijavičienė,10000404564,Moteris,28,18:10,Sloga
+Viktorija,Viktorytė,80007373740,Moteris,26,19:30,Galvos skausmas
+Jonas,Jonavičius,70773735737,Vyras,27,15:00,Kosulys
+Petras,Petravičius,30707070505,Vyras,31,13:00,Sloga
